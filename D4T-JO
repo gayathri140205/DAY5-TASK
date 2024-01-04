@@ -1,0 +1,46 @@
+{
+  "basics": {
+    "name": "Gayathri",
+    "email": "gayathri140205@gmail.com",
+    "phone": "9360068245.",
+    "degree": "B.A.Psychology",
+    "location": "Chennai",
+    "address": "456/3,Saibaba colony",
+    "postalCode": "628801.)",
+    "city": "nugambakam",
+    "countryCode": "(8904957)"
+    },
+  "profiles": {
+      
+    "network": "https://github.com/gayathri14",
+    "id": "Gayathri"
+    },
+  "skills": [
+    {
+    "name": "A beginner in java,html')",
+    "level": "beginner",
+    "keywords": [
+        "('Java', 'C++', etc)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+    "language": "English",
+    "fluency": "Advanced"
+    },
+
+    {
+    "language":"French",
+    "fluency":"Beginner"
+    }
+  ],
+  "interests": [
+    {
+    "name": "Im a volleyball player,i have particpated in district level competition')",
+    "keywords": [
+        "'volley ball')"
+      ]
+    }
+  ]
+}
