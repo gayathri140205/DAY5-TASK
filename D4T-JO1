@@ -24,16 +24,17 @@ for(var i = 0; i < json.length; i++) {
 
 //for Each
 
-json.forEach(function(obj) { console.log(obj.ques); });
+json.forEach(function(obj) {
+console.log(obj.ques);
+});
 
 //for In
 
-for (var key in json) {
-if (json.hasOwnProperty(key)) {
-  console.log(json[key].id);
+for (var g in res) { 
+  console.log(g,res[g]);
  
 }
-}
+
 
 //for Of
 
